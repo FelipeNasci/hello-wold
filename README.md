@@ -4,3 +4,10 @@
 ````
 Edição para teste
 ````
+
+````
+
+int variable = 100;
+int x = 0;
+
+````
