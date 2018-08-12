@@ -22,5 +22,5 @@ int soma = a + b;
 printf("%d", soma);
 ````
 ## Links
-
-[Diego Felipe] (https://sites.google.com/view/diegofelipe)
+This site was built using [GitHub Pages](https://pages.github.com/).
+[Diego Felipe] (https://sites.google.com/view/diegofelipe/)
