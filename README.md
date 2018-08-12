@@ -23,4 +23,5 @@ printf("%d", soma);
 ````
 ## Links
 This site was built using [GitHub Pages](https://pages.github.com/).
-[Diego Felipe] (https://sites.google.com/view/diegofelipe/)
+
+[Diego Felipe](https://sites.google.com/view/diegofelipe/)
