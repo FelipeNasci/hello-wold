@@ -11,5 +11,5 @@ Palavra
 
 ## Referência
 
-Aqui Vamos adicionar uma referência
+Aqui Vamos adicionar uma referência:
 > Reference
