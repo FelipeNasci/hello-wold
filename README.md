@@ -12,4 +12,4 @@ Palavra
 ## Referência
 
 Aqui Vamos adicionar uma referência:
-> Reference
+> Δ Reference
