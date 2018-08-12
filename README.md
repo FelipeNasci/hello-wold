@@ -15,7 +15,7 @@ Aqui Vamos adicionar uma referência:
 > Δ Reference
 
 ### Inserindo Código
-````c
+````c++
 int a = 10;
 int b = 0;
 int soma = a + b;
