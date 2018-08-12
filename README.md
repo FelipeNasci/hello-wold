@@ -13,3 +13,11 @@ Palavra
 
 Aqui Vamos adicionar uma referência:
 > Δ Reference
+
+### Inserindo Código
+````c
+int a = 10;
+int b = 0;
+int soma = a + b;
+printf("%d", soma);
+````
