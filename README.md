@@ -1,13 +1,3 @@
-[Edit1]
-# hello-wold
-## Primeiros passos com gitHub
-````
-Edição para teste
-````
+# Título
 
-````
-
-int variable = 100;
-int x = 0;
-
-````
+## Subtítulo 
