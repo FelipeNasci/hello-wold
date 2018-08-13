@@ -24,4 +24,5 @@ printf("%d", soma);
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Diego Felipe](https://sites.google.com/view/diegofelipe/)
-https://github.com/FelipeNasci/Line_Rasterization/blob/master/images/Bresenham_Octantes.png?raw=true
+
+(https://github.com/FelipeNasci/Line_Rasterization/blob/master/images/Bresenham_Octantes.png?raw=true)
